@@ -49,6 +49,7 @@ namespace ProEventos.API
             app.UseRouting();
 
             app.UseAuthorization();
+//teste            
 
             app.UseEndpoints(endpoints =>
             {
